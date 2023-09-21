@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Меня зовут Бакулев Халил (HalilProgr), добро пожаловать на мою git страницу.
+
+Здесь представлены мои работы, большая часть из них связана с OpenCascade и Qt.
 <!--
 **HalilProgr/HalilProgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

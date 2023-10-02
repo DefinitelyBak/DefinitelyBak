@@ -7,7 +7,7 @@
 Основные проекты:
 * OccKukaAnimation - проект анимации промышленного робота Kuka
 * OccEngineBlade - проект построения 3D-лопатки из json файла
-* Algorithm - учебный проект в котором реализованы некоторые изученные алгоритмы и задачи
+* Algorithms - учебный проект в котором реализованы некоторые изученные алгоритмы и задачи
 <!--
 **HalilProgr/HalilProgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

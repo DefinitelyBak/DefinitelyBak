@@ -2,7 +2,7 @@
 
 Меня зовут Бакулев Халил (DefinitelyBak), добро пожаловать на мою git страницу.
 
-Здесь представлены мои работы.
+Здесь представлены мои pet-проекты.
 
 <!--
 **HalilProgr/HalilProgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

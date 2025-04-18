@@ -2,12 +2,8 @@
 
 Меня зовут Бакулев Халил (DefinitelyBak), добро пожаловать на мою git страницу.
 
-Здесь представлены мои работы, большая часть из них связана с OpenCascade и Qt.
+Здесь представлены мои работы.
 
-Основные проекты:
-* OccKukaAnimation - проект анимации промышленного робота Kuka
-* OccEngineBlade - проект построения 3D-лопатки из json файла
-* Algorithms - учебный проект в котором реализованы некоторые изученные алгоритмы и задачи
 <!--
 **HalilProgr/HalilProgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
